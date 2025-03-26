@@ -11,9 +11,9 @@ The project supports multiple benchmark datasets (SWaT, WADI, HAI, Yahoo, etc.).
 ---
 
 ### Project Structure
-
+```
 ADT/
-├── adt/                  # Core ADT package
+├── adt/                  
 │   ├── data/             # Data preprocessing
 │   ├── envs/             # DQN environment
 │   ├── inference/        # DQN inference scripts
@@ -35,7 +35,7 @@ ADT/
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 
----
+```
 
 ### Features
 
